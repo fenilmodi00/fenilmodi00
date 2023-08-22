@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🌍, I am Deveesh Shetty</h1>
+<h1 align="center">Namaste 🌍, I am Fenil Modi</h1>
 <h3 align="center">Frontend Developer | Open Source Enthusiast </h4>
 
 ---
