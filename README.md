@@ -17,11 +17,11 @@ Also interested in DevOps so that's in the pipeline (no pun intended) 😉
 
 - 🚀 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 My Portfolio Website [https://deveesh.vercel.app](https://deveesh.vercel.app)
+- 👨‍💻 My Portfolio Website
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 Contact me at **deveeshshetty@gmail.com**
+- 📫 Contact me at ****
 
 - ⚡ Fun fact **I am not a night owl but an early bird 🐓...Surprised?**
 
