@@ -1,15 +1,15 @@
-<h2>Hi 👋, I'm Karan Agrawal</h2>
-<h4>I'm a MERN Stack and Flask Developer💻</h4>
+<h2>Hi 👋, I'm Fenil Modi</h2>
+<h4>I'm a Blockchain Developer💻</h4>
 
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at my [GitHub Profile](https://github.com/Karan9034)
+- 👨‍💻 All of my projects are available at my [GitHub Profile](https://github.com/fenilmodi00)
 
 - 💬 Ask me anything about **Web Technologies and Cloud Computing**
 
-- 📫 How to reach me [Send an Email](mailto:karan.agr9034@gmail.com)
+- 📫 How to reach me [Send an Email](mailto:fenilmodi4820@gmail.com)
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/karanel)
 
