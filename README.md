@@ -1,88 +1,57 @@
-<h1 align="center">Namaste 🌍, I am Fenil Modi</h1>
-<h3 align="center">Frontend Developer | Open Source Enthusiast </h4>
+<h2>Hi 👋, I'm Karan Agrawal</h2>
+<h4>I'm a MERN Stack and Flask Developer💻</h4>
 
----
+- 🔭 I’m currently working on **my portfolio**
 
-### So who am I? 🙃
+- 🌱 I’m currently learning **Blockchain**
 
-<br>
+- 👨‍💻 All of my projects are available at my [GitHub Profile](https://github.com/Karan9034)
 
-Well as you already know my name. Let me tell you something else. I started as a Python programmer and then switched to Web Development. And yes I love working with CSS and know how to center a div 😄 — currently working with TNT Stack 💣 - TypeScript, NextJS, TailwindCSS.
+- 💬 Ask me anything about **Web Technologies and Cloud Computing**
 
-Always ready to collaborate on projects and work together with SOSC. Feel free to reach out on socials :)
+- 📫 How to reach me [Send an Email](mailto:karan.agr9034@gmail.com)
 
-Also interested in DevOps so that's in the pipeline (no pun intended) 😉
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/karanel)
 
-<br>
+## 🚀 Languages and Tools:
 
-- 🚀 I’m currently learning **Full Stack Development**
-
-- 👨‍💻 My Portfolio Website
-
-- 💬 Ask me about **Frontend Development**
-
-- 📫 Contact me at ****
-
-- ⚡ Fun fact **I am not a night owl but an early bird 🐓...Surprised?**
-
-
-<h3 align="left">You can find me on</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deveesh-shetty-908539214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deveesh-shetty-908539214" height="30" width="40" /></a>
-<a href="https://twitter.com/shettydeveesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shettydeveesh" height="30" width="40" /></a>
-<a href="https://codepen.io/deveesh_shetty_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="deveesh_shetty_12" height="30" width="40" /></a>
-<a href="https://dev.to/devshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deveeshshetty1209" height="30" width="40" /></a>
-<a href="https://hashnode.com/@deveeshshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deveeshshetty" height="30" width="40" /></a>
-</p>
-
----
-
-### Currently Focussing on
-
-```
-
- ██████╗ ██████╗ ███████╗███╗   ██╗
-██╔═══██╗██╔══██╗██╔════╝████╗  ██║
-██║   ██║██████╔╝█████╗  ██╔██╗ ██║
-██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║
-╚██████╔╝██║     ███████╗██║ ╚████║
- ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝
-
-███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗
-██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝
-███████╗██║   ██║██║   ██║██████╔╝██║     █████╗
-╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝
-███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗
-╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝
-
-
-```
-
----
-
-<h3 align="left">Languages, Frameworks and Tools</h3>
 <p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Deveesh-Shetty/Deveesh-Shetty/assets/89470104/b82016bd-1ac0-4c1b-a671-6e97d59354d3" alt="next" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Deveesh-Shetty/Deveesh-Shetty/assets/89470104/68828f06-7ff6-467e-9887-9daaf171d38e" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://material-ui.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/flutter.png" alt="flutter" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+<br>
+<p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/Karan9034/count.svg" />
+</p>
+<br>
+
+## 🚀 Social:
+
+<p align="center">
+<a href="https://twitter.com/_karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_karan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanel" height="30" width="40" /></a>
+<a href="https://instagram.com/_karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karanel" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karanel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karanel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karanel" height="30" width="40" /></a>
 </p>
 
-## Checkout my Blog Posts 📚
 
-<!-- BLOG-POST-LIST:START -->
-- [Introduction to GitHub Issues](https://dev.to/devshetty/what-are-github-issues-4c3p)
-- [Learn about Branching in Git](https://dev.to/devshetty/learn-about-branching-in-git-bm3)
-- [Git and GitHub for Beginners - The Basics](https://dev.to/devshetty/git-and-github-for-beginners-the-basics-d3n)
-<!-- BLOG-POST-LIST:END -->
+## Quick stats about me
+
+GitHub Streaks | GitHub Stats | Top Languages |
+| --- | --- | --- |
+![Karan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Karan9034&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0) | ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan9034&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Karan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan9034&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) |
