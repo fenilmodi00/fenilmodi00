@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [Send an Email](mailto:fenilmodi4820@gmail.com)
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/karanel)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/fenilmodi-li)
 
 ## 🚀 Languages and Tools:
 
