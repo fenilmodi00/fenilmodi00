@@ -33,10 +33,10 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 <br>
-<p align="center"> 
+<!-- <p align="center"> 
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/fenilmodi00/count.svg" />
-</p>
+</p> -->
 <br>
 
 ## 🚀 Social:
