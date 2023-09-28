@@ -54,4 +54,4 @@
 
 GitHub Streaks | GitHub Stats | Top Languages |
 | --- | --- | --- |
-![Karan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=fenilmodi00&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0) | ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fenilmodi00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Karan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenilmodi00&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) |
+![Karan's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=fenilmodi00&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0) | ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) | ![Karan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenilmodi00&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) |
